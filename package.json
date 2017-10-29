@@ -1,0 +1,11 @@
+{
+  "name": "chokidar_bug",
+  "version": "0.0.1",
+  "description": "Demonstrates a bug in chokidar when watching two similarly named files, one suffixing an additional file extension to the other file's name (e.g. 'test.html' and 'test.html.ts').",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "1.7.0"
+  }
+}
